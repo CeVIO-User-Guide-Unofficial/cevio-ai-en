@@ -36,10 +36,20 @@ theme:
         name: Switch to light mode
 
 extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: 中文
+      link: https://zh.ceviodoc.uk
+      lang: zh
   social:
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/CeVIO_st
       name: CeVIO on Twitter
+    - icon: material/web
+      link: https://cevio.jp/guide/cevio_ai/
+      name: Original Japanese version of this User Manual 
 
 # CSS
 extra_css:
@@ -58,7 +68,9 @@ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
-  - pymdownx.keys
+  - pymdownx.keys:
+      key_map:
+        mouse-wheel: "Mouse wheel"
   - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.tilde
@@ -79,8 +91,8 @@ plugins:
 
 # Contents
 nav:
-  - Home: index.md
-  - Introduction:
+  - Home: 
+    - index.md
     - intro/change-log.md
     - intro/change-log_website.md
     - intro/contact.md
