@@ -1,2 +1,4 @@
-# cevio-ai-en
-An unofficial English translation for CeVIO AI User Manual.
+
+![header](docs/en/intro/images/header_image_title.png)
+
+An unofficial CeVIO AI User Manual English translation.
