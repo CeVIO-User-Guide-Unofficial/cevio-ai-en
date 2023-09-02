@@ -102,7 +102,7 @@ nav:
     - firstguide/install.md
     - firstguide/install_cn_patch.md
   - Operation:
-    - operation/operation.md
+    - operation/index.md
     - operation/menu.md
     - operation/transport.md
     - operation/infopanel.md
@@ -111,7 +111,7 @@ nav:
     - operation/adjusttool.md
   - Talk Track:
     - talktrack/tutorial_talk.md
-    - talktrack/talktrack.md
+    - talktrack/index.md
     - talktrack/talk_01.md
     - talktrack/longsentence.md
     - talktrack/talk_02.md
@@ -125,8 +125,8 @@ nav:
     - talktrack/talk_04.md
   - Song Track:
     - songtrack/tutorial_song.md
+    - songtrack/index.md
     - songtrack/songtrack.md
-    - songtrack/songtrack_copy.md
     - songtrack/song_02.md
     - songtrack/song_04.md
     - songtrack/song_04_english.md
@@ -137,18 +137,18 @@ nav:
     - songtrack/song_06.md
     - songtrack/fileimport.md
   - Audio Track:
-    - audio/audio.md
+    - audio/index.md
   - Options:
-    - option/option.md
+    - option/index.md
     - option/characterimage.md
   - Shortcut Key:
-    - shortcutkey/shortcutkey.md
+    - shortcutkey/index.md
   - External Interface:
-    - interface/interface.md
+    - interface/index.md
     - interface/com.md
     - interface/dotnet.md
   - FAQ and Bugs:
-    - faq/faq.md
+    - faq/index.md
     - faq/known_bugs.md
   - Others:
     - others/voices_and_official_websites.md
