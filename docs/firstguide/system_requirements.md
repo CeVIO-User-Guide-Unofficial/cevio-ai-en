@@ -12,7 +12,7 @@ Original article: [CeVIO AI ユーザーズガイド ┃ 動作環境](https://c
 
 Windows 11/10 （64-bit Japanese or English）
 
-\* Windows 8.1 is out of the warranty due to the end of Microsoft support.
+\* Windows 8.1 is no longer guaranteed due to the end of Microsoft support.
 
 ## Processor
 
