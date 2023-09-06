@@ -12,7 +12,7 @@ To use this product, connect to the Internet, then follow the steps below:
 
 1. Download the latest version from the "[New Features](https://cevio.jp/guide/cevio_ai/)" page;
 
-2. Double click the downloaded file to run it. 
+2. Double click the downloaded file to run it.
    
    The installation screen will pop up, follow the on-screen instructions to continue installing;
 

@@ -18,7 +18,7 @@ layout: post
 - English translation has been added.
 - Language switching has been enabled to switch between the English pages and Chinese pages.
     - Added mkdocs-static-i18n plugin.
-    - Language switcher is now disabled as it is not compatible with `navigation.instant`.
+    - `navigation.instant` is now disabled as it is not compatible with language switcher.
         - > mkdocs-material language switcher contextual link is not compatible with theme.features = navigation.instant
 - Due to a change in the folder structure, the creation dates of all pages have been changed.
 - Added image zoom function.
