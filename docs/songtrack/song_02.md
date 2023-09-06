@@ -117,7 +117,7 @@ When notes are entered, the lyrics' phoneme symbols and vocal timing are display
 
 ![timing adjust](images/song_02_7.png)
 
-\* If the screen is narrow, you can hide it by turning off "Timing Edit on Score" in "Song" under ["Option"](../../option/option).
+\* If the screen is narrow, you can hide it by turning off "Timing Edit on Score" in "Song" under ["Option"](../option/index.md).
 
 ### Simple TIMING Adjustment
 

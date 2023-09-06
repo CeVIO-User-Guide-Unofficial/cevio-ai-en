@@ -24,7 +24,7 @@ Hold down ++shift++ and click on a line element to multi-select and move these l
 
 After selecting "Align Track Element" from the "Track" menu or right-clicking on the talk track, all the lines in that track will automatically be spaced at equal intervals. (The position of the first line will not change.)
 
-\* The distance between lines can be modified in [Options](../../option/option) in "Talk Settings".
+\* The distance between lines can be modified in [Options](../option/index.md) in "Talk Settings".
 
 ![change vocalization time](images/tutorial_talk_3.png)
 

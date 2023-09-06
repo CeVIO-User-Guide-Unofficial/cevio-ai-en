@@ -61,6 +61,6 @@ Playback will stop when it play to the end of all tracks or you press the Stop b
 
 From the menu, go to File > Export > Audio Mixdown to combine all tracks and export them as a single file in stereo WAV format (48kHz 16bit).
 
-You can also output the selected track in mono only by Audio File of Song (Sample Rate and Bit Depth can be specified in [Option](../../option/option)). By using shortcut key ++ctrl+w++, you can easily export the selected track.
+You can also output the selected track in mono only by Audio File of Song (Sample Rate and Bit Depth can be specified in [Option](../option/index.md)). By using shortcut key ++ctrl+w++, you can easily export the selected track.
 
 ![output](images/tutorial_song_8.png)

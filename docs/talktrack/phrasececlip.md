@@ -64,4 +64,4 @@ Narrow the display to lines that partially match the spelling or reading of the 
 
 OR search is used when entering multiple words separated by spaces. Wildcards (`*` and `?`) are allowed to use.
 
-\* To transfer the speech clips to another computer, please go to [FAQ](../faq/faq.md).
+\* To transfer the speech clips to another computer, please go to [FAQ](../faq/index.md).

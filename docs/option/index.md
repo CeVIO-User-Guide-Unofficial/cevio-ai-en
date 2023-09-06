@@ -45,7 +45,7 @@ Select whether or not to show the image of character in the track header.
 
 Modify the display image of each character. This can be replaced by a user image.
 
-[Display user image](../characterimage)
+[Display user image](characterimage.md)
 
 ![set character image](images/option_2.png)
 

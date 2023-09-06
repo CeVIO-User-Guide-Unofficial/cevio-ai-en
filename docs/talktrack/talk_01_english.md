@@ -61,7 +61,7 @@ Narrow the display to words that partially match the spelling or reading of the 
 
 OR search is used when entering multiple words separated by spaces. Wildcards (`*` and `?`) are allowed to use. For example, `Sa*` and `?a?ara` will match `Sasara`.
 
-To transfer the user dictionary of registered words to another computer, please go to [FAQ](../faq/faq.md).
+To transfer the user dictionary of registered words to another computer, please go to [FAQ](../faq/index.md).
 
 ## List of Pronunciation Symbols
 

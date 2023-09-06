@@ -62,7 +62,7 @@ Pressing the play button allows you to listen to the audio with the timing chang
 
 From the menu, go to File > Export > Audio Mixdown to combine all tracks and export them as a single file in stereo WAV format (48kHz 16bit).
 
-You can also export each line as separate files in mono WAV format using "Audio File per Each Line"(Sample Rate and Bit Depth can be specified in [Option](../../option/option).).
+You can also export each line as separate files in mono WAV format using "Audio File per Each Line"(Sample Rate and Bit Depth can be specified in [Option](option/index.md).).
 
 ![export](images/tutorial_talk_7.png)
 

@@ -20,7 +20,7 @@ Q: I have installed the software, but I don't see "CeVIO AI".
 
 A: To use the software, in addition to the Voice, you need to install and activate the "CeVIO AI" editor itself.
 
-Please follow [the instructions on this page](../../firstguide/install) to install and activate the software.
+Please follow [the instructions on this page](../firstguide/install.md) to install and activate the software.
 
 ---
 

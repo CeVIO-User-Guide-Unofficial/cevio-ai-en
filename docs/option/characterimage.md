@@ -10,7 +10,7 @@ Original article: [CeVIO AI ユーザーズガイド ┃ ユーザー画像の�
 
 Drag and drop an image (JPEG/PNG/GIF) into the character portrait at the upper right of the screen to display this image.
 
-If the above is followed, or if the image is dragged and dropped into the option "Right Side Image", the image will be registered as a user image and it can then be selected in "Image display" and ["Image Settings"](../option#image-settings).
+If the above is followed, or if the image is dragged and dropped into the option "Right Side Image", the image will be registered as a user image and it can then be selected in "Image display" and ["Image Settings"](index.md#image-settings).
 
 ![user image](images/characterimage_1.png)
 

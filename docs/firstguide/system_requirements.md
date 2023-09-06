@@ -16,7 +16,7 @@ Windows 11/10 （64-bit Japanese or English）
 
 ## Processor
 
-Intel/AMD dual-core processors or higher
+Int../ dual-core processors or higher
 
 \* 4 Core or higher Recommended.
 

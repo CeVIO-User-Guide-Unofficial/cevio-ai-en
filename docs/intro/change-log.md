@@ -5,103 +5,144 @@ date: 2022-02-04
 category: Change Log
 layout: post
 ---
+Original article:
+
+- [CeVIO AI ユーザーズガイド 最新情報](https://cevio.jp/guide/cevio_ai/)
+- [CeVIO AIアップデート情報 ┃ CeVIO Official Site](https://cevio.jp/archives/category/news/cevio-ai-update/)
+
+---
 
 ## 8.6
 
-------------------------------------------------------
-Aug.3,2023 Version 8.6.6.0
-------------------------------------------------------
-▼Song related changes
-・Fixed a bug in Alpha/Husky Details Adjustment Screen where the parameters of the selected range did not move up and down correctly.
+### Aug.22, 2023 Version 8.6.7.0
 
-・Fixed a bug that the Key Signature was not drawn correctly when it changed twice in the score editing screen.
+▼Song related changes
+
+- Reduce CPU load and drawing load during playback.
 
 ▼Talk related changes
-・Updated to Talk Engine 6.3.2. No change in sound quality.
+
+- Updated to Japanese Talk Dictionary 3.0.19.
+
+- Changed some of the text in "Text File Character Code" in "Talk Settings" in "Option".
 
 ▼Common to Songs and Talks
-・The design of the number font on the toolbar was changed.
 
-・Other minor changes.
+- The design of the number font of the toolbar can be selected.
 
-------------------------------------------------------
-July.21,2023 Version 8.6 Official Release (v8.6.1.0 - v8.6.5.0)
-------------------------------------------------------
+- Moved toolbar location and timebase settings from the "Transport" menu to the "View" menu.
+
+- Other minor improvements and bug fixes.
+
+### Aug.3, 2023 Version 8.6.6.0
+
+▼Song related changes
+
+- Fixed a bug in Alpha/Husky Details Adjustment Screen where the parameters of the selected range did not move up and down correctly.
+
+- Fixed a bug that the Key Signature was not drawn correctly when it changed twice in the score editing screen.
+
+▼Talk related changes
+
+- Updated to Talk Engine 6.3.2. No change in sound quality.
+
+▼Common to Songs and Talks
+
+- The design of the number font on the toolbar was changed.
+
+- Other minor changes.
+
+### July.21, 2023 Version 8.6 Official Release (v8.6.1.0 - v8.6.5.0)
+
 Version 8.6 includes the implementation of husky detail adjustment for a wider range of song expression and various improvements.
 
 ▼Song related changes
-・Updated to Song Engine 6.3.2. No change in sound quality.
 
-・Husky's detailed adjustment is implemented. The adjustment screen can be displayed by clicking the "HUS" button.
+- Updated to Song Engine 6.3.2. No change in sound quality.
 
-・"Export Audio File" is added to the right-click menu.
+- Husky's detailed adjustment is implemented. The adjustment screen can be displayed by clicking the "HUS" button.
 
-・Symbols such as "@ Whisper" are indicated for each item of "Special Symbols" in the right-click menu.
+- "Export Audio File" is added to the right-click menu.
 
-・"Anti-aliasing" is added to "View" in the right-click menu (only when the display magnification is 100%).
+- Symbols such as "@ Whisper" are indicated for each item of "Special Symbols" in the right-click menu.
 
-・The jagged lines on the adjustment screen are now smoother when the display magnification is not 100%.
+- "Anti-aliasing" is added to "View" in the right-click menu (only when the display magnification is 100%).
 
-・Removed "Listen" from the right-click menu.
+- The jagged lines on the adjustment screen are now smoother when the display magnification is not 100%.
 
-・The timing reference range is now specified when using the normal selection tool on the timing adjustment screen.
-　*The quantize and timing criteria can be switched by pressing Shift in other screens as well.
-　*Clicking and dragging in the timing display area at the bottom of the screen can also be used to select a range by note or phoneme.
+- Removed "Listen" from the right-click menu.
 
-・When using a Selection Tool on the Timing Adjustment Screen, the [Alt] key can only be used to specify a free range.
+- The timing reference range is now specified when using the normal selection tool on the timing adjustment screen.
 
-・When the background of the score editing screen is rainbow or pastel, the background of the adjustment screen should also change according to the key signature.
+    \* The quantize and timing criteria can be switched by pressing Shift in other screens as well.
 
-・The guide cursor is now displayed in the selection tool on the adjustment screen as well.
+    \* Clicking and dragging in the timing display area at the bottom of the screen can also be used to select a range by note or phoneme.
 
-・When moving a note up or down, an automatic collective selection is now made only if there is a pitch adjustment within the range.
+- When using a Selection Tool on the Timing Adjustment Screen, the [Alt] key can only be used to specify a free range.
 
-・Changed the default setting for new projects of "Common Key Signature" to ON.
+- When the background of the score editing screen is rainbow or pastel, the background of the adjustment screen should also change according to the key signature.
+
+- The guide cursor is now displayed in the selection tool on the adjustment screen as well.
+
+- When moving a note up or down, an automatic collective selection is now made only if there is a pitch adjustment within the range.
+
+- Changed the default setting for new projects of "Common Key Signature" to ON.
 
 ▼Talk related changes
-・Shortcut key [F4] for "Audio Files per Each Line" is now supported.
+
+- Shortcut key [F4] for "Audio Files per Each Line" is now supported.
 
 ▼Other changes
-・The shortcut key [F1] to display the help is now supported.
 
-・Other minor improvements and bug fixes.
-      
-------------------------------------------------------
-May.17,2023 Version 8.5 Official Release (8.5.2.0～8.5.4.0)
-------------------------------------------------------
+- The shortcut key [F1] to display the help is now supported.
+
+- Other minor improvements and bug fixes.
+
+## 8.5
+
+### May.17, 2023 Version 8.5 Official Release (8.5.2.0～8.5.4.0)
+
 Version 8.5 includes many new features, such as a new slider that expands the range of expression in songs. Various improvements have also been made to both Song and Talk, making them even easier to use.
 
 ▼Song related changes
 
 - Updated to Song Engine 6.3.0.
 
-　  Suppressed the rare sounding of notes at intervals of whole rests. Improved the accuracy of some calculations.
+    Suppressed the rare sounding of notes at intervals of whole rests. Improved the accuracy of some calculations.
 
 - Three adjustment sliders for "Husky," "Tune," and "Pitch" were implemented.
 
 - Implemented "Common Key Signatures". The Key Signature can be synchronized on all song tracks.
-　This can be set from the "Song" menu or the right-click menu "Other Operations".
+
+    This can be set from the "Song" menu or the right-click menu "Other Operations".
 
 - Implemented "Color Settings". The color of the line on the Adjustment Screen can be freely changed.
-　It can be set from the "Song" menu or the right-click menu "View".
+
+    It can be set from the "Song" menu or the right-click menu "View".
 
 - Implemented "Special Symbols". You can input "@" etc. with casts corresponding to special symbols.
-　It is possible to execute it from "Special Symbols" of "Attributes" of the right-click menu of the note.
+
+    It is possible to execute it from "Special Symbols" of "Attributes" of the right-click menu of the note.
 
 - Implemented "Delete Special Symbols". Special symbols other than falsetto can be deleted all together.
-　When there are special symbols other than falsetto in the selected range, it can be executed from the right-click menu.
+
+    When there are special symbols other than falsetto in the selected range, it can be executed from the right-click menu.
 
 - Implemented "Reset Adjustments". The adjustment values in the specified range can be deleted all together.
-　It can be executed from the right-click menu after specifying a range with the "Collectively Selection" tool.
+
+    It can be executed from the right-click menu after specifying a range with the "Collectively Selection" tool.
 
 - "Auto Collectively Selection" can be turned on/off.
-　It can be set from the "Song" menu or the right-click menu "Other Operations".
+
+    It can be set from the "Song" menu or the right-click menu "Other Operations".
 
 - Improved "Auto Collectively Selection".
-　Vertical movement is judged by pitch and horizontal movement is judged by other than timing.
+
+    Vertical movement is judged by pitch and horizontal movement is judged by other than timing.
 
 - "Song" menu has been reorganized.
-　"Auto Split English Lyrics" was moved to the menu and removed from the options.
+
+    "Auto Split English Lyrics" was moved to the menu and removed from the options.
 
 - Reset voice quality and emotion when changing cast.
 
@@ -112,13 +153,16 @@ Version 8.5 includes many new features, such as a new slider that expands the ra
 - When undoing/redoing, the selected area is not cleared.
 
 ▼Talk related changes
+
 - Updated to Talk Engine 6.3.0.
+
 　Slight modifications to reading estimation. Improved accuracy of some calculations.
 
 - Updated to Japanese Talk Dictionary 3.0.18.
 
 - Added "Play From Here" to the right-click menu of the dialog list.
-　The shortcut key [F5] can be used in place of the space key, and the reading can be continued line by line.
+
+    The shortcut key [F5] can be used in place of the space key, and the reading can be continued line by line.
 
 - Pre-rendering process can be canceled during playback.
 
@@ -127,20 +171,22 @@ Version 8.5 includes many new features, such as a new slider that expands the ra
 - In English Talk Voice, "&" is automatically converted to "and", "<" to "(", and ">" to ")" when inputting lines.
 
 ▼Other changes
+
 - WAV export, Track Freeze, and Talk Pre-rendering function are restricted in offline mode.
 
 - Other minor improvements and bug fixes.
 
-------------------------------------------------------
-Feb.14, 2023 Version 8.4.5.0 Official Release
-------------------------------------------------------
+## 8.4
+
+### Feb.14, 2023 Version 8.4.5.0 Official Release
+
 Version 8.4.5.0 is even easier to use with Casts Display Order Settings and a song Mix Copy feature.
 
 ▼Song related changes
 
 - Updated to Song Engine 6.2.1. No change in sound quality.
 - A new function "Mix Copy" is implemented. Parameters can be copied including the default part.
-    
+
     ![mix copy](images/V8.4.5_mixcopy.png)
 
     - After specifying a range with the Collectively Selection Tool (or the Selection Tool for the adjustment screen), copy the parameters, including the default values, by using "Mix Copy" in the right-click menu or the shortcut key ++ctrl+shift+c++.
@@ -150,8 +196,9 @@ Version 8.4.5.0 is even easier to use with Casts Display Order Settings and a so
 - Improved pasting of detailed parameters for Voice Alpha. The result should be the same as the copy source.
 
     \* The Voice Alpha slider now is the same as the source, even when the slider values of the source and destination are different.
-    
-　　(Previously, this was reflected as the relative value, but now it is reflected as the absolute value.)
+
+  
+    (Previously, this was reflected as the relative value, but now it is reflected as the absolute value.)
 
 - Cast changes now maintain the values of the Voice Alpha and Emotion sliders before the change.
 
@@ -172,26 +219,24 @@ Version 8.4.5.0 is even easier to use with Casts Display Order Settings and a so
 ▼Other changes
 
 - Support the Cast Display Order Settings.
-    
+
     ![option order setting button](images/V8.4.5_option_order_setting_button.png)
 
     - You can set it from "Environment" button in "Option".
-    
+
     ![option order setting window](images/V8.4.5_option_order_setting_window.png)
 
     - The order can be customized according to "Default", "Name order", "Installation date order", or "Custom order".
     - "Default"  is the same as before. If you change the order by drag & drop, it will become "Custom order".
 - Added a manual update button to the update information screen.
-　  
-    If automatic update fails repeatedly, please download from this page and update manually.
     
+　
+    If automatic update fails repeatedly, please download from this page and update manually.
+
     \*This button will appear from the next update after this version is applied.
 - Other minor improvements and bug fixes.
 
-------------------------------------------------------
-
-Dec.20, 2022 Version 8.4 Official Release (8.3.22.0～8.4.0.0)
-------------------------------------------------------
+### Dec.20, 2022 Version 8.4 Official Release (8.3.22.0～8.4.0.0)
 
 ![8.4 banner](images/CeVIO%20AI_banner_8.4.jpg)
 
@@ -221,9 +266,9 @@ Version 8.4 includes improvements to the song timing adjustment function and min
 - In the Timing Adjustment Screen, the modes of phoneme/note unit adjustment are integrated.
 
     The lower black band allows note-by-note adjustment and the upper lines allow phoneme-by-phoneme adjustment without switching modes.
-    
+
     ![timing adjust](images/V8.4_score_timing_adjust.png)
-    
+
     \* The shortcut key ++ctrl+shift+p++ for switching between phoneme/note modes has been removed.
 
 - When the ++alt++ key is held down on the timing adjustment screen, the temporary status line can be displayed or not displayed.
@@ -246,7 +291,8 @@ Version 8.4 includes improvements to the song timing adjustment function and min
 
     .NET interface: Talker2.OutputWaveToFile()
 
-    COM interface: ITalker2::OutputWaveToFile()　ITalker2V40::OutputWaveToFile()
+    COM interface: ITalker2::OutputWaveToFile()
+    ITalker2V40::OutputWaveToFile()
 
     \* Fixed a problem in which voice waveforms were not generated when "Tsurumaki Maki (EN)" was specified for "Speaker Name" in "Recotte Studio". We sincerely apologise for any inconvenience caused.
 
@@ -273,16 +319,16 @@ Version 8.4 includes improvements to the song timing adjustment function and min
 - Fixed a problem in which the information message is hidden in the splash screen when the application is started in an environment where "vc_redist.x64.exe" is not yet installed.
 - Other minor improvements and bug fixes.
 
-------------------------------------------------------
+## 8.3
 
-Oct.12, 2022 Version 8.3.17.0
-------------------------------------------------------
+### Oct.12, 2022 Version 8.3.17.0
 
 ▼Common to Songs and Talks
 
-　Added "Sample Rate" to "Environment" under "Options".
+- Added "Sample Rate" to "Environment" under "Options".
 
-　Supported sampling rate 32kHz/44.1kHz/96kHz output (except for mixdown WAV export).
+
+    Supported sampling rate 32kHz/44.1kHz/96kHz output (except for mixdown WAV export).
 
 ▼Song related changes
 
@@ -296,20 +342,14 @@ Oct.12, 2022 Version 8.3.17.0
 
 Other minor changes.
 
-------------------------------------------------------
-
-Sep.12, 2022 Version 8.3.15.0
-------------------------------------------------------
+### Sep.12, 2022 Version 8.3.15.0
 
 - The number of initial presets of "Suzuki Tsudumi Talk Voice" was changed from 2 to 5.
 
 - Restored the cast image of "Suzuki Tsudumi Talk Voice".
     - Please install "Suzuki Tsudumi Talk Voice" installer 1.0.2 from User's Guide.
 
-------------------------------------------------------
-
-Sep.6, 2022 Version 8.3.13.0
-------------------------------------------------------
+### Sep.6, 2022 Version 8.3.13.0
 
 ▼Song related changes
 
@@ -339,10 +379,7 @@ Sep.6, 2022 Version 8.3.13.0
 
 - The location of the file opened in "Recent Projects" is now reflected in the folder displayed in the next "Open" window.
 
-------------------------------------------------------
-
-Aug.17, 2022 Version 8.3.10.0
-------------------------------------------------------
+### Aug.17, 2022 Version 8.3.10.0
 
 ▼Song related changes
 
@@ -367,10 +404,7 @@ Aug.17, 2022 Version 8.3.10.0
 
 - Other minor improvements.
 
-------------------------------------------------------
-
-Aug.4, 2022 Version 8.3.7.0
-------------------------------------------------------
+### Aug.4, 2022 Version 8.3.7.0
 
 ▼Song related changes
 
@@ -401,17 +435,15 @@ Aug.4, 2022 Version 8.3.7.0
 
 - Other minor improvements.
 
-------------------------------------------------------
-
-Jul.11, 2022 Version 8.3.6.0(～8.3.2.0)
-------------------------------------------------------
+### Jul.11, 2022 Version 8.3.6.0(～8.3.2.0)
 
 Version 8.3 is even easier to use with many improvements, including support for exporting 24bit / 32bit float WAV files, implementation of new Song functions, improved operability, and improved Talk phonographs.
 
 ▼Common to Songs and Talks
 
 - WAV export format was added to "Environment" under "Options.
-　Supports 24 bit / 32 bit float output (except for mixdown WAV export).
+
+    Supports 24 bit / 32 bit float output (except for mixdown WAV export).
 
 ▼Song related changes
 
@@ -453,7 +485,8 @@ Version 8.3 is even easier to use with many improvements, including support for 
     - [Ctrl+U]...Merge notes (when multiple notes are selected).
 
 - The menu name "Remove Fine Spaces" was changed to "Remove Rests".
-　The gap between one note and the next note can now be filled even when only one note is selected.
+
+    The gap between one note and the next note can now be filled even when only one note is selected.
 
 - The MIDI Import Window now supports "- .midi" extensions.
 
@@ -486,3 +519,9 @@ Version 8.3 is even easier to use with many improvements, including support for 
 - The maximum number of "Recent Project" in the "File" menu has been increased to 10 files.
 
 - Other minor improvements and bug fixes.
+
+## 8.2
+
+## 8.1
+
+## 8.0
