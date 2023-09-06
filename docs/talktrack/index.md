@@ -29,7 +29,7 @@ Enable or disable playback looping.
 
 Toggle whether or not the lines are automatically played after they are entered or adjusted in the condition controller/emotion controller/phoneme graph.
 
-If ["Partial replay with Phoneme Graph"](../../option/option/#partial-replay-with-phoneme-graph) is enable, the phoneme graph will automatic play the section from the previous pause before the adjustment point (e.g. punctuation) to the next pause after the adjustment point.
+If ["Partial replay with Phoneme Graph"](../../option/opti../#partial-replay-with-phoneme-graph) is enable, the phoneme graph will automatic play the section from the previous pause before the adjustment point (e.g. punctuation) to the next pause after the adjustment point.
 
 !!! tip "Use of auto play"
 
@@ -111,7 +111,7 @@ The ++f5++ key can be used in place of the ++space++ key, and the reading can be
 
 Export the lines of the selected row to a file in monaural WAV format.
 
-\* Sampling rate and bit depth can be specified in [Option](../../option/option).
+\* Sampling rate and bit depth can be specified in [Option](../option/index.md).
 
 ### Insert Speech Clips
 

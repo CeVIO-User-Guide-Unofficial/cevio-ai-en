@@ -22,7 +22,7 @@ To use this product, connect to the Internet, then follow the steps below:
    
     Double click to execute it;
    
-    \* If it does not execute, please check this [page](../faq/faq.md).
+    \* If it does not execute, please check this [page](../faq/index.md).
 
 4. When first execute, an "Activate" window will pop up.
 

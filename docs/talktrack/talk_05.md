@@ -96,4 +96,4 @@ Click on the "×" to the right of the preset name to delete the preset.
 
 ### Default Preset
 
-Frequently used presets can be set as "Default Preset" in the "Talk Settings" in [Options](../option/option.md), so that it will become the default setting for a blank row for use conveniently.
+Frequently used presets can be set as "Default Preset" in the "Talk Settings" in [Options](option/index.md), so that it will become the default setting for a blank row for use conveniently.

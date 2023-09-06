@@ -51,7 +51,7 @@ The extension of the saved file will be `.ccs`.
 
 Import lines from a text file onto a Talk Track.
 
-[Importing lines](../../talktrack/talk_04)
+[Importing lines](../talktrack/talk_04.md)
 
 #### AozoraBunko File
 
@@ -69,13 +69,13 @@ Import a standard MIDI file onto a Song Track.
 
 Import a MusicXML file onto a Song Track.
 
-[Importing MIDI/MusicXML](../../songtrack/fileimport)
+[Importing MIDI/MusicXML](../songtrack/fileimport.md)
 
 #### Audio File
 
 Load an external audio file onto a audio track which starts at the current cursor position.
 
-[About the format of audio files](../../audio/audio)
+[About the format of audio files](../audio/index.md)
 
 #### Track File {#track-file-import}
 
@@ -101,7 +101,7 @@ Export selected Talk Track(s) in monaural WAV format for each line.
 
 ![menu](images/menu_2.png)
 
-\* Sample Rate and Bit Depth can be specified in [Option](../../option/option).
+\* Sample Rate and Bit Depth can be specified in [Options](../option/index.md).
 
 \* If "Separate folders and numbers for each track" is unchecked in "Details", files will not be divided into folders, and the file name numbers will be the serial numbers of all the lines in all the tracks.
 
@@ -123,7 +123,7 @@ Export the lines of selected Talk Track(s) in SubRip (`.srt`) or SubViewer (`.sb
 
 Export selected Song Track(s) in monaural WAV format.
 
-\* Sample Rate and Bit Depth can be specified in [Options](../../option/option).
+\* Sample Rate and Bit Depth can be specified in [Options](../option/index.md).
 
 #### MIDI File {#midi-file-export}
 
@@ -271,13 +271,13 @@ Register the reading and accent of the mispronounced word in the user dictionary
 
 View the registered words and edit or delete them.
 
-[Word Registration and Dictionary Management](../../talktrack/talk_06/)
+[Word Registration and Dictionary Management](../talktrack/talk_06.md)
 
 ### Speech Clips
 
 View the registered lines and insert them to a selected line, or delete them from the list.
 
-[Speech Clips](../../talktrack/phrasececlip/)
+[Speech Clips](../talktrack/phrasececlip.md)
 
 ### Enter Text Collectively
 
@@ -289,7 +289,7 @@ You can also use it to split lines.
 
 Search lines by keywords. This is useful when you have lots of lines.
 
-[Finding Lines](../../talktrack/search/)
+[Finding Lines](../talktrack/search.md)
 
 ### Continuous Input
 
@@ -351,13 +351,13 @@ Show/hide the columns in Speech List.
 
 Toggle between the edit tools.
 
-[Edit Tool](../edittool)
+[Edit Tool](edittool.md)
 
 ### Quantize
 
 Change quantize.
 
-[Quantize is](../infopanel#Quantize)
+[Quantize is](infopanel.md#quantize)
 
 ### Edit Mode {#edit-mode-song}
 
@@ -365,7 +365,7 @@ Toggle between the Score editing mode for entering notes and lyrics, and the mod
 
 You can also disable the vibrato of the selected track.
 
-[Adjustment Screen](../../songtrack/song_07/)
+[Adjustment Screen](../songtrack/song_07.md)
 
 ### Enter Lyrics Collectively
 
@@ -516,7 +516,7 @@ Select the display position of the transport (toolbar) from the Left, Center, or
 
 You can modify environment settings and various Talk/Song settings, such as character display.
 
-[Options](../../option/option)
+[Options](../option/index.md)
 
 ## Help
 

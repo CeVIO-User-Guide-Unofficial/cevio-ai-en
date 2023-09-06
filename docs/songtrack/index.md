@@ -4,7 +4,7 @@ author: 夜輪風超絶技巧変奏曲
 category: songtrack
 layout: post
 ---
-原文：[CeVIO AI ユーザーズガイド ┃ ソングトラックの説明](https://cevio.jp/guide/cevio_ai/songtrack/)
+Original article: [CeVIO AI ユーザーズガイド ┃ ソングトラックの説明](https://cevio.jp/guide/cevio_ai/songtrack/)
 
 ---
 Put the notes in the piano roll and enter lyrics, then fine-tune in the adjustment screen.
@@ -44,7 +44,7 @@ Click on the scale and character assigned to this track will sing this key.
 
 ### Simple TIMING Display
 
-Check and adjust the phonemes and vocalization timing of the lyrics. If the screen is narrow, you can hide it in the "Talk Settings" in the [Options](../../option/option).
+Check and adjust the phonemes and vocalization timing of the lyrics. If the screen is narrow, you can hide it in the "Talk Settings" in the [Options](../option/index.md).
 
 ### Scrollbar
 
@@ -70,7 +70,7 @@ Right-click (or hold down on the touchscreen) on the Piano Roll to open the menu
 
 Allow you to set accent, staccato, breath, slur start, slur end and falsetto for the notes.
 
-For the characters that support [special symbols](../song_symbol), you can input these symbols from the "Special Symbols" in the "Attribute".
+For the characters that support [special symbols](song_symbol.md), you can input these symbols from the "Special Symbols" in the "Attribute".
 
 ### Vowel Timing Correction
 
@@ -132,7 +132,7 @@ View the details of the notes and set attributes such as breath and slur.
 
 ### Slur
 
-Set the slur begin and end within the selectedn range to achieve a smoother singing performance.
+Set the slur begin and end within the selection range to achieve a smoother singing performance.
 
 \* When multiple notes are selected, you can also use the shortcut key ++ctrl+r++ to set slurs.
 
@@ -154,13 +154,13 @@ When multiple notes are selected, you can set attributes such as lyrics and fals
 
 Toggle between the edit tools.
 
-[Edit Tool](../edittool)
+[Edit Tool](operation/edittool.md)
 
 ### Quantize
 
 Change quantize.
 
-[Quantize is](../infopanel#Quantize)
+[Quantize is](operation/infopanel#quantize)
 
 ### Edit Mode {#edit-mode-song}
 

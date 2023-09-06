@@ -38,7 +38,7 @@ For example, enter "トオキョオ" as the pronunciation of "東京".
 
     The actual effect depends on the mora to which `’` is attached. It has little effect on the a column (あ段), e column (え段) and o column (お段).
 
-    \* If you want to devoice vowels without registering words, please use [ruby input (reading specification)](../talk_01#insert-ruby-brackets).
+    \* If you want to devoice vowels without registering words, please use [ruby input (reading specification)](../talk_01.md#insert-ruby-brackets).
 
 ### Accent
 
@@ -112,6 +112,6 @@ Narrow the display to words that partially match the spelling or reading of the 
 
 OR search is used when entering multiple words separated by spaces. Wildcards (`*` and `?`) are allowed to use. For example, `四*日` and `?月?日` will match `四月一日`.
 
-To transfer the user dictionary of registered words to another computer, please go to [FAQ](../faq/faq.md).
+To transfer the user dictionary of registered words to another computer, please go to [FAQ](../faq/index.md).
 
 [^1]:Translator's note: Full-width English input is allowed here.

@@ -21,7 +21,7 @@ Double-click on the ruler to start playback (or stop during playback) from the c
 
 Right-click and enable "View Large" to view the image in a larger vertical size.
 
-By selecting "Other Image Settings" from the right-click menu to display ["Options"](../../option/option), you can make more detailed settings, such as hiding the image.
+By selecting "Other Image Settings" from the right-click menu to display ["Options"](../option/index.md), you can make more detailed settings, such as hiding the image.
 
 ## Audio Track
 

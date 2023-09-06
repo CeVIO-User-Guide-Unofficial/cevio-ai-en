@@ -36,7 +36,7 @@ The text limit for each line is 200 for the Japanese Voice and 500 for the Engli
 
     Even if the pronunciation is the same, you can find the pronunciation you want by changing it to homophones, hiragana or katakana.
 
-    You can use the [Word Registration](../talk_06) function to register the correct pronunciation of the names of people or places that are easy to be mispronounced.
+    You can use the [Word Registration](talk_06.md) function to register the correct pronunciation of the names of people or places that are easy to be mispronounced.
 
 ### Insert Ruby Brackets
 
@@ -58,7 +58,7 @@ When inputting a line, the "Insert Ruby Brackets" in the right-click menu can in
 
     (Example) こんにちは、四月一日《わたぬき》さん。　　\* When `|` is omitted, the reading specification will be assumed to start from the beginning. [^1]
 
-    Like [Word Registration](../talk_06), you can also use `'` in `《》` to devoice the vowel.
+    Like [Word Registration](../talk_06.md), you can also use `'` in `《》` to devoice the vowel.
 
 !!! info "English ruby input (phonetic symbol specification)"
 
@@ -74,7 +74,7 @@ When inputting a line, the "Insert Ruby Brackets" in the right-click menu can in
 
     (Example) Ando[ah1,n\|d,ow0]
 
-    To view the list of phonetic symbols, [please see here](../talk_01_english).
+    To view the list of phonetic symbols, [please see here](../talk_01_english.md).
 
 ### Continuous Input
 

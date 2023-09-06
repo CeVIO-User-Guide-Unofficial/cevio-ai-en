@@ -41,7 +41,7 @@ Press ++ctrl++ and left-click the knob to reset it to the default value (Centre)
 
 PAN setting affects the listening, playback, and WAV export volume.
 
-\* It does not affect the export of ["Audio Files per Each Line"](../menu#audio-files-per-each-line) and ["Audio File of Song"](../menu#audio-file-of-song), as they export in monaural WAV format.
+\* It does not affect the export of ["Audio Files per Each Line"](menu.md#audio-files-per-each-line) and ["Audio File of Song"](menu.md#audio-file-of-song), as they export in monaural WAV format.
 
 ### Mute
 

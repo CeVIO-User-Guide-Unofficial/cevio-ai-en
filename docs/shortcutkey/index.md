@@ -454,7 +454,7 @@ Zoom in/out horizontally.
 
 \* Holding the middle mouse button allows you to scroll by dragging.
 
-\* The basic scroll direction (vertical/horizontal) of the mouse wheel can be changed in "Environment" under ["Options"](../../option/option).
+\* The basic scroll direction (vertical/horizontal) of the mouse wheel can be changed in "Environment" under ["Options"](../option/index.md).
 
 !!! info "When shortcut keys don't work"
 

@@ -90,4 +90,4 @@ English lyrics will also be automatically divided by syllable and assigned to no
 
 ![English lyrics](images/song_04_5.png)
 
-[^1]:Translator's note: As of version 8.2.8.0, uppercase Japanese vowel characters (`A` , `I` , `U` , `E` , `O`) in the Japanese Voice are now played normally as exceptions in phonemes that are not present in the palette. See [Change Log](../../intro/change-log#2022512-8280).
+[^1]:Translator's note: As of version 8.2.8.0, uppercase Japanese vowel characters (`A` , `I` , `U` , `E` , `O`) in the Japanese Voice are now played normally as exceptions in phonemes that are not present in the palette. See [Change Log](../../intro/change.md-log#2022512-8280).
