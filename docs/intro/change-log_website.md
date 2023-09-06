@@ -16,7 +16,7 @@ layout: post
 ## May 1, 2023
 
 - Material for MkDocs is updated to 9.1.8。
-- mkdocs-static-i18n plugin is updated to 0.56。
+- mkdocs-static-i18n plugin is updated to 0.56.
 
 ## November 21, 2022
 
