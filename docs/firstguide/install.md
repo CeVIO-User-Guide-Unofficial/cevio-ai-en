@@ -27,7 +27,9 @@ To use this product, connect to the Internet, then follow the steps below:
 4. When first execute, an "Activate" window will pop up.
 
     Enter the Product Key of Song or Talk Editor and email address.
-    
+
+    \* You can copy and paste all digits of the Product Key displayed on the download sales site at once.
+
     \* You need to provide email address in some cases, for example, when the Product Key is missing. Please enter it accurately.
 
     \* If you purchase only Talk Voice or Song Voice products that do not include 'Starter Pack' in their product names and do not have the necessary editor, please purchase one from the editor sales site listed on this [product information](https://cevio.jp/products_cevio_ai/) page.
