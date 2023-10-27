@@ -8,6 +8,20 @@ layout: home
 
 An unofficial CeVIO AI User Manual English translation.
 
+CeVIO AI is the next generation of voice synthesizer software, developed by Techno-Speech. It uses the latest AI technology to create high-quality voice tracks from speaking to singing, capable of expressing different types of voices, personality traits and singing styles.
+
+---
+
+This website is an unofficial translation of the CeVIO AI User Guide, as [the official manual](https://cevio.jp/guide/cevio_ai/), although thorough, is only available in Japanese. 
+
+This website is not affiliated with Techno-Speech.
+
+## Navigating this Website
+
+The user manual is separated into sections following the origin version.
+
+Desktop users can navigate using the top menu, and mobile users can tap the three-bars (:fontawesome-solid-bars:) icon in the top left corner to open the navigation menu.
+
 ## Shortcut Key
 
 `Global`
@@ -25,31 +39,6 @@ An unofficial CeVIO AI User Manual English translation.
     ++esc++ , ++tab++：Close the search box
 
     ++enter++：Open the page where search result in
-
-## Admonitions
-
-There are five admonitions that will appear throughout the guide. They work as follows:
-
-!!! tip
-    This admonition is used to give suggestions or hints.
-    
-    Most of these hints are given by CeVIO official, and the rest are given by translator. Usually they will make CeVIO easier to use.
-
-!!! info
-    This admonition is used to provide information.
-    
-    This information is given by CeVIO official and relates to the features and settings of CeVIO. It's recommended to read it carefully.
-
-!!! example
-    This admonition is used for example.
-
-!!! warning
-    This admonition is used to mark warnings or information that requires special attention.
-
-!!! new
-    This admonition is used to mark new features which haven't been written to user guide yet.
-
-    They will be removed when these features appear in official user guide.
 
 <!-- ## 免责声明
 
