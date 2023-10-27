@@ -50,7 +50,7 @@ If the lyrics contain a `$`, the note will be sung in falsetto.
 
 \* Depending on the character and the pitch of the note (e.g., a note with a low pitch), it may not be falsetto.
 
-[Other Special Symbols](../song_symbol)
+[Other Special Symbols](song_symbol.md)
 
 ## Input Phoneme Symbols
 
@@ -70,4 +70,4 @@ If a character that does not exist in the phoneme palette is entered, the charac
 
 [^1]:Translator's note: (if the understanding is correct) Specifically, when `tenderly` is divided into `tenderl` and `-y`, if the phoneme is not automatically divided, the phoneme assigned to the previous note would be "t,eh,n,d,axr,l" and the latter note would be "iy". However, because the phonemes are automatically divided, the phonemes assigned to the previous note are actually "t,eh,n,d,axr", and the phonemes assigned to the latter note are "l,iy". In addition, in this example, the phonemes that are automatically divided are the correct division, because the segmentation point of the word "tenderly" is ten·der·ly, and the divided position should be ly, pronounced "l,iy".
 
-[^2]:Translator's note: For a comparison table of the phonemes used in CeVIO with IPA, see the section ["List of Pronunciation Symbols"](../../talktrack/talk_01_english/#list-of-pronunciation-symbols) from Words Registration and Pronunciation (English Voice).
+[^2]:Translator's note: For a comparison table of the phonemes used in CeVIO with IPA, see the section ["List of Pronunciation Symbols"](../talktrack/talk_01_english.md/#list-of-pronunciation-symbols) from Words Registration and Pronunciation (English Voice).

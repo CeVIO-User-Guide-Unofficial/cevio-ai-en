@@ -29,7 +29,7 @@ Enable or disable playback looping.
 
 Toggle whether or not the lines are automatically played after they are entered or adjusted in the condition controller/emotion controller/phoneme graph.
 
-If ["Partial replay with Phoneme Graph"](../../option/opti../#partial-replay-with-phoneme-graph) is enable, the phoneme graph will automatic play the section from the previous pause before the adjustment point (e.g. punctuation) to the next pause after the adjustment point.
+If ["Partial replay with Phoneme Graph"](../option/index.md/#partial-replay-with-phoneme-graph) is enable, the phoneme graph will automatic play the section from the previous pause before the adjustment point (e.g. punctuation) to the next pause after the adjustment point.
 
 !!! tip "Use of auto play"
 
@@ -103,7 +103,7 @@ Show/hide the columns in Speech List.
 
 Ignore the position of position cursor and play from the selected line.
 
-When usingthe shortcut key ++f5++ to stop the playback, the position cursor will automatically move to the beginning of the dialogue at the stop position and select it.
+When using the shortcut key ++f5++ to stop the playback, the position cursor will automatically move to the beginning of the dialogue at the stop position and select it.
 
 The ++f5++ key can be used in place of the ++space++ key, and the reading can be continued line by line.
 

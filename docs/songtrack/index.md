@@ -154,13 +154,13 @@ When multiple notes are selected, you can set attributes such as lyrics and fals
 
 Toggle between the edit tools.
 
-[Edit Tool](operation/edittool.md)
+[Edit Tool](../operation/edittool.md)
 
 ### Quantize
 
 Change quantize.
 
-[Quantize is](operation/infopanel#quantize)
+[Quantize is](../operation/infopanel.md#quantize)
 
 ### Edit Mode {#edit-mode-song}
 

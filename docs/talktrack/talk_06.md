@@ -38,7 +38,7 @@ For example, enter "トオキョオ" as the pronunciation of "東京".
 
     The actual effect depends on the mora to which `’` is attached. It has little effect on the a column (あ段), e column (え段) and o column (お段).
 
-    \* If you want to devoice vowels without registering words, please use [ruby input (reading specification)](../talk_01.md#insert-ruby-brackets).
+    \* If you want to devoice vowels without registering words, please use [ruby input (reading specification)](talk_01.md#insert-ruby-brackets).
 
 ### Accent
 
