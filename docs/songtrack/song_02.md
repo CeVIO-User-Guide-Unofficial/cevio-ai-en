@@ -63,7 +63,7 @@ Moving note to bar 0 is not allowed.
 
 After selecting notes, drag with the mouse or move them with ++up++ or ++down++ keys, and the pitch will automatically follow their change.
 
-Use the [Collectively Selection Tool](../song_05) to specify the range, and then move them, the notes in the selection range will move together with their parameters.
+Use the [Collectively Selection Tool](song_05.md) to specify the range, and then move them, the notes in the selection range will move together with their parameters.
 
 \* Hold down the ++shift++ key while dragging to move the note horizontally or vertically.
 
@@ -99,7 +99,7 @@ You can also edit phoneme symbols by double-clicking on a note with "Enter lyric
 
 ### Copy and Paste Note with Parameters
 
-By using the [Collectively Selection Tool](../song_05) to specify the range and copy, you can also copy the note adjustment value, beat, dynamics marks and other parameters within the range. Afterwards, by specifying the position with the cursor and pasting, you can easily reproduce the original notes and adjustment values.
+By using the [Collectively Selection Tool](song_05.md) to specify the range and copy, you can also copy the note adjustment value, beat, dynamics marks and other parameters within the range. Afterwards, by specifying the position with the cursor and pasting, you can easily reproduce the original notes and adjustment values.
 
 ### Mix Copy
 

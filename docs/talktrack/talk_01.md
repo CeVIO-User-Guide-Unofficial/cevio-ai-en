@@ -58,7 +58,7 @@ When inputting a line, the "Insert Ruby Brackets" in the right-click menu can in
 
     (Example) こんにちは、四月一日《わたぬき》さん。　　\* When `|` is omitted, the reading specification will be assumed to start from the beginning. [^1]
 
-    Like [Word Registration](../talk_06.md), you can also use `'` in `《》` to devoice the vowel.
+    Like [Word Registration](talk_06.md), you can also use `'` in `《》` to devoice the vowel.
 
 !!! info "English ruby input (phonetic symbol specification)"
 
@@ -74,7 +74,7 @@ When inputting a line, the "Insert Ruby Brackets" in the right-click menu can in
 
     (Example) Ando[ah1,n\|d,ow0]
 
-    To view the list of phonetic symbols, [please see here](../talk_01_english.md).
+    To view the list of phonetic symbols, [please see here](talk_01_english.md).
 
 ### Continuous Input
 

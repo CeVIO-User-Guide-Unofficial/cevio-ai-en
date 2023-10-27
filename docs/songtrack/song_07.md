@@ -88,7 +88,7 @@ Choose it from the right-click menu of the note (or after selecting a range in t
 
 Adjust the volume of the note here.
 
-\* You can also use [dynamic marks](../songtrack.md) to adjust the volume easily.
+\* You can also use [dynamic marks](songtrack.md/#dynamic-mark-setting) to adjust the volume easily.
 
 ![volume](images/song_07_8.png)
 

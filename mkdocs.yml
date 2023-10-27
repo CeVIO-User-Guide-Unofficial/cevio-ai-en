@@ -5,9 +5,10 @@ repo_name: CUGU/CeVIO-AI
 
 # Theme
 theme:
-  custom_dir: 'overrides/material'                  # This is where the customization of the theme lives
+  custom_dir: 'overrides'                  # This is where the customization of the theme lives
   name: material
   features:
+    - announce.dismiss
     - content.tooltips
     - content.code.annotate
     - content.code.copy
@@ -16,6 +17,7 @@ theme:
     - navigation.expand
     - navigation.top
     - navigation.footer
+    - toc.follow
   icon:
     logo: fontawesome/solid/book
     favicon: images/c-solid.png
@@ -53,7 +55,8 @@ extra:
 
 # CSS
 extra_css:
-  - assets/stylesheets/extra.css
+  - material/assets/stylesheets/extra.css
+  - material/assets/stylesheets/footer.css
 
 # Extensions
 markdown_extensions:
@@ -65,12 +68,15 @@ markdown_extensions:
   - md_in_html
   - pymdownx.caret
   - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.keys:
       key_map:
-        mouse-wheel: "Mouse wheel"
+        mouse-wheel-up-down: "Mouse wheel ↕"
   - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.tilde
@@ -150,9 +156,3 @@ nav:
   - FAQ and Bugs:
     - faq/index.md
     - faq/known_bugs.md
-  - Others:
-    - others/voices_and_official_websites.md
-    - others/third_party_websites.md
-    - others/emotion_in_song_editor.md
-    - others/revised_license_agreement.md
-    - others/suzuki_tsudumi_song_contest_result.md
