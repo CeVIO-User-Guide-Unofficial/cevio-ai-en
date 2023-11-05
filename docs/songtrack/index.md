@@ -48,7 +48,7 @@ Check and adjust the phonemes and vocalization timing of the lyrics. If the scre
 
 ### Scrollbar
 
-When the scrollbar is at the right end, you can add measures by pressing the right scroll button or press ++shift++ with mouse scroll down.
+When the scrollbar is at the right end, you can add measures by pressing the right scroll button or press ++ctrl++ with mouse scroll down.
 
 \* By holding down the middle mouse button while moving the mouse in the piano roll, you can perform a quick scroll.
 
@@ -79,10 +79,6 @@ Adjust vowel timing automatically to the beginning of the note.
 \* Consonants are moved the same amount as vowels (if it can't move, using ratio to adjust instead; if there's no space for it, pass).
 
 \* Please use it as an auxiliary tool, as the mechanical correction may lose its original good listening feel.
-
-### Listen
-
-Perform a quick playback of the selected notes the selected note(s). \* In the adjustment screen, the selected range will be played back as a section.
 
 ### Cut
 

@@ -1,7 +1,7 @@
 site_name: CeVIO AI User Guide (Unofficial Translation)
 site_description: An unofficial CeVIO AI User Manual English translation.
 repo_url: https://github.com/CeVIO-User-Guide-Unofficial/cevio-ai-en
-repo_name: CUGU/CeVIO-AI
+repo_name: CUGU/CeVIO-AI-EN
 
 # Theme
 theme:
@@ -97,12 +97,7 @@ plugins:
 
 # Contents
 nav:
-  - Home: 
-    - index.md
-    - intro/change-log.md
-    - intro/change-log_website.md
-    - intro/contact.md
-    - intro/about.md
+  - index.md
   - First Guide:
     - firstguide/system_requirements.md
     - firstguide/install.md
@@ -156,3 +151,8 @@ nav:
   - FAQ and Bugs:
     - faq/index.md
     - faq/known_bugs.md
+  - Others:
+    - intro/change-log.md
+    - intro/change-log_website.md
+    - intro/contact.md
+    - intro/about.md

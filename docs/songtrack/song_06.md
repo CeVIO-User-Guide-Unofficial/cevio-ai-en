@@ -30,6 +30,8 @@ The higher it is raised, the more faithfully (and more mechanically) character s
 
 Shift the pitch of the output audio with 440 Hz reference. It won't affect the Adjustment Screen.
 
+![pitch](images/song_06_1.png)
+
 ### Emotion
 
 In "Suzuki Tsudumi", "SEKAI", and "COKO", there is an additional emotion slider available.
@@ -49,3 +51,11 @@ Timbre can be fine-tuned (in units of 5 ms minimum) by switching to the adjustme
 Adjustments are relative to the overall timbre of the track, and as you move the alpha slider up or down, the adjustment value will also move up or down accordingly.
 
 ![fine-tune alpha](images/song_06_2.png)
+
+## Fine-tune Husky
+
+Husky can be fine-tuned by switching to the adjustment screen via the "HUS" button on the toolbar or the menu.
+
+Adjustments are relative to the overall husky of the track, and as you move the husky slider up or down, the adjustment value will also move up or down accordingly.
+
+![fine-tune husky](images/song_06_3.png)

@@ -27,11 +27,12 @@ CeVIO AI produces highly accurate Song Voices by learning from recorded data tha
 | RIME | Falsetto | Bounce-up pitch | Trembling | Irritation |
 | #kzn | Falsetto |  |  |  |
 | COKO | Falsetto | Bounce-up pitch | Roughness | Irritation |
-| Futaba Minato | Falsetto | Bounce-up pitch |  | Irritation |
+| Kanato Mell | Falsetto | Roughness | Trembling |  |
+| Futaba Minato | Falsetto | Bounce-up pitch |  | Breathe out |
 | Ci flower | Falsetto | Bounce-up pitch | Roughness |  |
 | POPY | Falsetto | Bounce-up pitch | Whisper | Head fall |
 | ROSE | Falsetto | Irritation | Whisper |  |
-| Kanato Mell | Falsetto | Roughness | Trembling |  |
+| Reml | Falsetto | Bounce-up pitch | Breathe out |  |
 
 \* The level of difficulty in showcasing certain characteristics can vary depending on factors such as the cast, lyrics, and pitch.
 

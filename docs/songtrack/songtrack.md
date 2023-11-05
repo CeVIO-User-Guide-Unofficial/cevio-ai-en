@@ -56,6 +56,8 @@ You can also move the beat (except for the first beat) by dragging it left or ri
 
 ## Key Signature Setting
 
+Setting a key signature that matches the song will get a better song.
+
 Select the selection tool or the draw tool from the edit tool and double-click on the key signature to change key.
 
 If you want to change the key in the middle of a song, select the draw tool and double-click on the key row at the position where you want to change the key to place the new key.
@@ -64,7 +66,7 @@ If you want to change the key in the middle of a song, select the draw tool and 
 
 You can also move the key (except for the first key) by dragging it left or right (hold down the left mouse button and move it) or by specifying the position directly in the Key Properties.
 
-\* You can set different key signatures for each song track.
+\* **By default, all tracks share the common key signature.** By turning off "Common Key Signatures" in the Song menu, you can set different key signatures for each song track. The "Common Key Signatures" setting is saved for each project.
 
 ## Dynamic Mark Setting
 

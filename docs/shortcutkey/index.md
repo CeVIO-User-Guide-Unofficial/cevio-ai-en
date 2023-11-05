@@ -60,7 +60,7 @@ Original article: [CeVIO AI ユーザーズガイド ┃ ショートカット�
 | ++f3++ | Continue searching using the keyword and conditions of the previous search. |
 | ++f5++ | Turn on/off the option "Automatic Line Alignment". |
 | ++f8++ | Enter text collectively. |
-| ++f9++ | View Speech Clips |
+| ++f9++ | View Speech Clips. |
 | ++up++ </br> ++down++ | Select previous row / next row. |
 | ++shift+up++ </br> ++shift+down++ | Select multiple rows. |
 | ++home++ | Select the first line of rows. |
@@ -77,7 +77,7 @@ Original article: [CeVIO AI ユーザーズガイド ┃ ショートカット�
 | ++shift+g++ | Zoom out the phoneme graph vertically. |
 | ++shift+h++ | Zoom in the phoneme graph vertically. |
 | ++mouse-wheel-up-down++ | Adjust the phoneme units of the phoneme graph (or scroll vertically when zoomed in). |
-| ++alt+mouse-wheel-up-down++ | Adjust the phoneme units of the phoneme graph |
+| ++alt+mouse-wheel-up-down++ | Adjust the phoneme units of the phoneme graph. |
 | ++shift+mouse-wheel-up-down++ | Scroll phoneme graph horizontally. |
 | ++ctrl+mouse-wheel-up-down++ | Scroll phoneme graph vertically. |
 
@@ -100,6 +100,7 @@ Original article: [CeVIO AI ユーザーズガイド ┃ ショートカット�
 | ++5++ | Edit vibrato amplitude. ++shift+5++ for superimposed display. |
 | ++6++ | Edit vibrato frequency. ++shift+6++ for superimposed display. |
 | ++7++ | Edit Alpha (timbre). ++shift+7++ for superimposed display. |
+| ++8++ | Edit Husky. ++shift+8++ for superimposed display. |
 | ++ctrl+tab++ | Display the next adjustment screen. |
 | ++ctrl+shift+tab++ | Display the previous adjustment screen. |
 | ++ctrl+1++ | Selection tool. |
@@ -116,8 +117,8 @@ Original article: [CeVIO AI ユーザーズガイド ┃ ショートカット�
 | ++shift+tab++ | Enter the lyrics for the previous note. |
 | ++left++ ++right++ | Select previous note / next note. |
 | ++shift+left++</br>++shift+right++ | Select multiple notes. |
-| ++up++</br>++down++ | Move the selected note by a half-tone. </br>The pitch adjustment values automatically shift accordingly.</br>\* Pitch shift will be paused when the ++alt++ key is held down to move a note. |
-| ++shift+up++</br>++shift+down++ | Move the selected note by one octave. </br>The pitch adjustment values automatically shift accordingly.</br>\* Pitch shift will be paused when the ++alt++ key is held down to move a note. |
+| ++up++</br>++down++ | Move the selected note by a half-tone. </br>The pitch adjustment values automatically shift accordingly. |
+| ++shift+up++</br>++shift+down++ | Move the selected note by one octave. </br>The pitch adjustment values automatically shift accordingly. |
 | ++home++ | Select the first note (holding ++shift++ at the same time will select all notes </br>from the current note to the first note at the same time). |
 | ++end++ | Select the last note (holding ++shift++ at the same time will select all notes </br>from the current note to the last note at the same time). |
 | ++ctrl+home++ | Move the the position cursor to the beginning of the score. |
@@ -134,10 +135,11 @@ Original article: [CeVIO AI ユーザーズガイド ┃ ショートカット�
 | ++ctrl+i++ | Display / Hide the timing status lines in timing adjustment screen.</br>\* When hidden, the status lines are automatically adjusted to maintain the ratio between the lines. |
 | ++ctrl+r++ | Set the slur. Valid when multiple notes are selected. |
 | ++ctrl+u++ | Merge notes. Valid when multiple notes are selected. |
-| ++ctrl+w++ | Export the selected Song track in WAV (48kHz mono) format. </br>\* Bit Depth can be specified in Option. |
+| ++ctrl+w++ | Export the selected Song track in WAV (48kHz mono) format. </br>Bit Depth can be specified in Option. |
 | ++shift+q++ | Switch to the next Quantize value. |
 | ++shift+w++ | Switch to the previous Quantize value. |
 | ++shift+t++ | Turn the triplet on/off. |
+| ++ctrl+shift+c++ | Copy the parameters, including the default value, after selecting a range</br>using the Collectively Selection Tool (or the Selection Tool in the adjustment screen). |
 
 \* The quantize correction will be released when the ++alt++ is held down.
 
