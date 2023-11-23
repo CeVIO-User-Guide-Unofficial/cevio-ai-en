@@ -32,7 +32,7 @@ To use this product, connect to the Internet, then follow the steps below:
 
     \* You need to provide email address in some cases, for example, when the Product Key is missing. Please enter it accurately.
 
-    \* If you purchase only Talk Voice or Song Voice products that do not include 'Starter Pack' in their product names and do not have the necessary editor, please purchase one from the editor sales site listed on this [product information](https://cevio.jp/products_cevio_ai/) page.
+    \* If you purchase only Talk Voice or Song Voice products that do not include "Starter Pack" in their product names and do not have the necessary editor, please purchase one from the editor sales site listed on this [product information](https://cevio.jp/products_cevio_ai/) page.
 
     !!! info "About Product Key"
 

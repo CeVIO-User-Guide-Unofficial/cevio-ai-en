@@ -86,9 +86,9 @@ Choose it from the right-click menu of the note (or after selecting a range in t
 
 ## Edit Volume
 
-Adjust the volume of the note here.
+Adjust the volume of voice (the amount of vocal cord vibration, which is the source of voice) here.
 
-\* You can also use [dynamic marks](songtrack.md/#dynamic-mark-setting) to adjust the volume easily.
+You can also use [dynamic marks](songtrack.md/#dynamic-mark-setting) to adjust the volume.
 
 ![volume](images/song_07_8.png)
 
@@ -100,7 +100,7 @@ The unit of volume is dB (decibels).
 
 ## Edit Pitch
 
-Adjust the pitch of a note here. Only base pitch is adjusted, vibrato is not included.
+Adjust the pitch of voice here. Only base pitch is adjusted, vibrato is not included.
 
 Outside of the pitch adjustment page, when the pitch is superimposed, the pitch affected by the vibrato will also be displayed.
 
@@ -116,7 +116,7 @@ The unit of pitch is Hz (Hertz).
 
 ## Edit Vibrato Amplitude
 
-Vibrato can be adjusted by amplitude and frequency, adjust the amplitude of vibrato here.
+Vibrato of a song can be adjusted by amplitude and frequency, adjust the amplitude of vibrato here.
 
 Superimposed display pitch will show the pitch with vibrato for easy adjustment.
 
@@ -132,7 +132,7 @@ The unit of amplitude is Cent, and 100Cent represents a half-tone up or down.
 
 ## Edit Vibrato Frequency
 
-Vibrato can be adjusted by amplitude and frequency, adjust the frequency of vibrato here.
+Vibrato of a song can be adjusted by amplitude and frequency, adjust the frequency of vibrato here.
 
 Superimposed display pitch will show the pitch with vibrato for easy adjustment.
 

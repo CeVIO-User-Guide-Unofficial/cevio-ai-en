@@ -101,7 +101,6 @@ nav:
   - First Guide:
     - firstguide/system_requirements.md
     - firstguide/install.md
-    - firstguide/install_cn_patch.md
   - Operation:
     - operation/index.md
     - operation/menu.md
