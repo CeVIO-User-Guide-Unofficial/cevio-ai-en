@@ -224,10 +224,6 @@ Please restart the external application after change during external cooperation
 
     \* If all parameters are controlled by the linked application, these settings will not be used.
 
-### Voice Version {#voice-version-talk}
-
-Some casts allow choose the voice version. \* There are no voices available currently.
-
 ### Text File Character Code
 
 Specify the encoding to be used when reading files and exporting files.
@@ -309,10 +305,6 @@ If "Default Lyrics" is left blank, unchecking it will fix "ドレミ......" to C
 ### Default Alpha
 
 Specify the alpha value when creating a new track or changing a cast.
-
-### Voice Version {#voice-version-song}
-
-Some casts allow choose the voice version. \* There are no voices available currently.
 
 !!! info "About setting folder"
 

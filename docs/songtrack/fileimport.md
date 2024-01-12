@@ -22,6 +22,8 @@ The track structure of the MIDI file will then be displayed, select the track yo
 
 \* If "Import Tempo and Time Signature" is also checked, the tempos and time signatures set in the MIDI file will be reflected in all the song tracks.
 
+\* If the lyrics become garbled when "Lyrics Text Encoding" is set to "ANSI (Shift-JIS)", please select "UTF-8".
+
 ![import midi](images/fileimport_1.png)
 
 !!! tip "Correcting MIDI files"
@@ -65,4 +67,4 @@ MusicXML files can be exported for use with compatible external software.
 
 !!! info "About encoding"
 
-    MIDI files can be read/written in "Shift-JIS" and MusicXML files can be read/written in "UTF-8".
+    MIDI files can be read in "Shift-JIS" and "UTF-8" and exported in "Shift-JIS"; and MusicXML files can be read/exported in "UTF-8".

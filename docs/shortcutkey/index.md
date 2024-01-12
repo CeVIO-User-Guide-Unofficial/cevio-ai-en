@@ -97,10 +97,9 @@ Original article: [CeVIO AI ユーザーズガイド ┃ ショートカット�
 | ++2++ | Edit timing. ++shift+2++ for superimposed display. |
 | ++3++ | Edit volume. ++shift+3++ for superimposed display. |
 | ++4++ | Edit pitch. ++shift+4++ for superimposed display. |
-| ++5++ | Edit vibrato amplitude. ++shift+5++ for superimposed display. |
-| ++6++ | Edit vibrato frequency. ++shift+6++ for superimposed display. |
-| ++7++ | Edit Alpha (timbre). ++shift+7++ for superimposed display. |
-| ++8++ | Edit Husky. ++shift+8++ for superimposed display. |
+| ++5++ | Edit vibrato. ++shift+5++ for superimposed display. |
+| ++6++ | Edit Alpha (timbre). ++shift+6++ for superimposed display. |
+| ++7++ | Edit Husky. ++shift+7++ for superimposed display. |
 | ++ctrl+tab++ | Display the next adjustment screen. |
 | ++ctrl+shift+tab++ | Display the previous adjustment screen. |
 | ++ctrl+1++ | Selection tool. |

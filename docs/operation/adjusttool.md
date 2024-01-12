@@ -8,8 +8,8 @@ Original article: [CeVIO AI ユーザーズガイド ┃ 調整ツール（ソ�
 
 ---
 
-![adjust tool](images/adjusttool_1.png#only-light)
-![adjust tool](images/adjusttool_1_dark.png#only-dark)
+![adjust tool](images/ope_04a_w.png#only-light)
+![adjust tool](images/ope_04a_w_dark.png#only-dark)
 
 Switch the edit mode of the Song Track.
 
@@ -17,7 +17,7 @@ Click on the text above the button (e.g. "PIT") to display other screens superim
 
 (It cannot be used in the Talk Track or Audio Track.)
 
-![overlay item](images/adjusttool_2.png)
+![overlay item](images/st05_20.png)
 
 ### Edit Score
 
@@ -37,16 +37,16 @@ Adjust the pitch of a note.
 
 \* Outside of the pitch adjustment page, when the pitch is superimposed, the pitch affected by the vibrato will also be displayed.
 
-\* In the pitch adjustment page, when the amplitude or frequency of the vibrato is superimposed, the pitch affected by the vibrato will also be displayed.
+\* In the pitch adjustment page, when the vibrato is superimposed, the pitch affected by the vibrato will also be displayed.
 
-### Edit Vibrato Amplitude
+### Edit Vibrato
 
-Adjust the vibrato amplitude here.
-
-### Edit Vibrato Frequency
-
-Adjust the vibrato frequency here.
+Adjust the vibrato amplitude and frequency here.
 
 ### Edit Alpha Detail
 
 Adjust the more detailed variation of timbre within a track.
+
+### Edit Husky Detail
+
+Adjust the more detailed variation of husky within a track.

@@ -12,7 +12,67 @@ Original article:
 
 ---
 
+------------------------------------------------------
+Jan.9,2024 Version 9.0.1.0
+------------------------------------------------------
+Version 9.0 implements new features such as audio waveform display for songs and free accent mode for talk.
+Various improvements were also made, including vibrato adjustment and wheel scrolling.
+
+▼Song related changes
+・Supports audio waveform display.
+　It is displayed on the adjustment screen. Display can be turned on/off.
+
+・Vibrato adjustment screen has been improved.
+　VIA(amplitude) and VIF(frequency) are integrated into the VIB adjustment screen.
+
+・Audio waveform color, opacity, and anti-aliasing can now be set in the "Color Settings" menu.
+
+・When adjusting note-by-note timing, all but the last phoneme will now move in parallel.
+　*The conventional timing ratio can also be maintained by [Shift]+dragging.
+
+・Added "MIDI File Character Code" in "Options". UTF-8" can be selected.
+
+・Added "Lyrics Character Code" in the MIDI import window. UTF-8" can be selected.
+
+・The pitch line in the PIT adjustment screen has been adjusted so that it passes through the middle of the A4 note when the pitch line is 440 Hz.
+
+・"Delete Measures" can now delete up to 999 measures.
+
+▼Talk related changes
+・Updated to Talk Engine 6.3.4. No change in sound quality.
+
+・Updated to Japanese Talk Dictionary 3.0.21.
+　Added CeVIO AI Song characters name etc.
+
+・"Free Accent Mode" is implemented.
+　It is now possible to not apply accent types when adjusting Japanese accents.
+
+・Organized right-click menu of Phoneme Graph.
+
+・Corrected the playback start position in the click preview on the English accent adjustment screen. Plays from the beginning of the accented phrase.
+
+▼Other changes
+・Added "Horizontal Wheel Scroll Reversal" to "Options".
+
+・When the mouse cursor is on the scroll bar, the wheel scroll now follows the horizontal/vertical scroll bar.
+
+・Other minor improvements and bug fixes.
+
+
 ## 8.6
+
+### Sep.8,2023 Version 8.6.10.0
+
+▼Song related changes
+・Fixed a bug that caused freezing and mixdown failure under certain conditions.
+
+▼Talk related changes
+・Updated to Talk Engine 6.3.3. No change in sound quality.
+
+・Updated to Japanese Talk Dictionary 3.0.20.
+
+▼Other changes
+・Improved that the window was not displayed at the previous quit position in a multi-display environment.
 
 ### Aug.22, 2023 Version 8.6.7.0
 

@@ -39,7 +39,7 @@ Adjusting the time will automatically recalculate pitch, volume, vibrato amplitu
 
 ### Adjust in Note/Phoneme Unit
 
-Select Draw Tool and drag the line in the black band at the bottom to adjust the timing in note units.
+Select Draw Tool and drag the line in the black band at the bottom of piano roll to adjust the timing in note units.
 
 Move the line forward to advance the time, and move it backward to delay the time.
 
@@ -92,7 +92,7 @@ You can also use [dynamic marks](songtrack.md/#dynamic-mark-setting) to adjust t
 
 ![volume](images/song_07_8.png)
 
-Select the Draw Tool and drag a line to modify the volume.
+Select the Draw Tool and drag the mouse to draw the volume.
 
 The unit of volume is dB (decibels).
 
@@ -108,43 +108,33 @@ In the pitch adjustment page, when the amplitude or frequency of the vibrato is 
 
 ![pitch](images/song_07_10.png)
 
-Select the Draw Tool and drag a line to modify the pitch.
+Select the Draw Tool and drag the mouse to draw the pitch.
 
 The unit of pitch is Hz (Hertz).
 
 ![edit pitch](images/song_07_11.png)
 
-## Edit Vibrato Amplitude
+## Edit Vibrato
 
-Vibrato of a song can be adjusted by amplitude and frequency, adjust the amplitude of vibrato here.
+Adjust the vibrato of voice here. Adjust the amplitude (AMP) at the top of the piano roll and the frequency (FRQ) at the bottom.
 
-Superimposed display pitch will show the pitch with vibrato for easy adjustment.
+the pitch with vibrato will be shown automatically in VIB adjustment screen.
 
-To add vibrato to an area that doesn't have vibrato, you need to draw both amplitude and frequency in that area.
+When adjusting the amplitude parameter using the Draw Tool or the Eraser Tool, the frequency will also be automatically completed (and vice versa).
 
-![amplitude](images/song_07_12.png)
+![vibrato](images/st05_vib_w.png)
 
-Select the Draw Tool and drag a line to modify the amplitude.
+Select the Draw Tool and drag the mouse in the AMP area to draw the amplitude of vibrato.
 
 The unit of amplitude is Cent, and 100Cent represents a half-tone up or down.
 
-![edit amplitude](images/song_07_13.png)
+![edit amplitude](images/st05_13.png)
 
-## Edit Vibrato Frequency
-
-Vibrato of a song can be adjusted by amplitude and frequency, adjust the frequency of vibrato here.
-
-Superimposed display pitch will show the pitch with vibrato for easy adjustment.
-
-To add vibrato to an area that doesn't have vibrato, you need to draw both amplitude and frequency in that area.
-
-![frequency](images/song_07_14.png)
-
-Select the Draw Tool and drag a line to modify the frequency.
+Select the Draw Tool and drag the mouse in the FRQ area to draw the frequency of vibrato.
 
 The unit of period is Hz (Hertz), which means the number of shakes per second.
 
-![edit frequency](images/song_07_15.png)
+![edit frequency](images/st05_14.png)
 
 !!! info "Disable Vibrato"
 

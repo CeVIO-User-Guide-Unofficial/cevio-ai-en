@@ -33,7 +33,7 @@ Once the audio file has been loaded, the audio element will be displayed as a wa
 !!! info "About Audio File Formats"
     Only WAV format with 8bit or 16bit bit rate is supported.
 
-    (24-bit and 32-bit are not supported.)
+    \* 24-bit and 32-bit are not supported.
 
     If the sampling rate is other than 48kHz, the file will be automatically converted to 48kHz.
     
