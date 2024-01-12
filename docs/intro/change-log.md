@@ -14,6 +14,16 @@ Original article:
 
 ## 9.0
 
+### Dec.15,2023 Version 8.7.3.0
+
+▼Song related changes
+
+- Added "MIDI File Character Code" in "Options".
+
+"UTF-8" can be selected for the character code of the lyrics when read/exporting MIDI file.
+
+![midi character code](images/V8.7_option_midi_charcode.png)
+
 ### Dec.12,2023 Version 8.7.2.0
 
 ▼Song related changes
