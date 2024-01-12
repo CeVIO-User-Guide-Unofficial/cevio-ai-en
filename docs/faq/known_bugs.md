@@ -20,11 +20,11 @@ Original article: [CeVIO AI ユーザーズガイド ┃ 既知の問題](https:
 - ~~トークで書き出したWAVファイルを一部の外部ソフトに読み込めないことがある。~~
     - ~~アクセント句の分割／結合を行ったセリフをWAV書き出しして、「PowerDirector」等特定の外部ソフトに読み込むと発生します。一度プロジェクトを保存し、開き直してからWAV書き出しすると問題を回避できます。~~
 
-## Version 8.7.0.0
+## ~~Version 8.7.0.0~~
 
-- If you play a song while acquiring waveforms, it may become temporarily inoperable or playback may stop midway.
+- ~~If you play a song while acquiring waveforms, it may become temporarily inoperable or playback may stop midway.~~
 
-    \* Please turn off [Audio Waveform] in the right-click menu [View] until the problem is fixed.
+    ~~\* Please turn off [Audio Waveform] in the right-click menu [View] until the problem is fixed.~~
 
 ## ~~Version 8.2.9.0~~
 

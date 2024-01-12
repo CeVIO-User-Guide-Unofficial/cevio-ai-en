@@ -12,6 +12,36 @@ Original article:
 
 ---
 
+## 9.0
+
+### Dec.12,2023 Version 8.7.2.0
+
+▼Song related changes
+
+- Fixed a bug where the weight cursor would appear and falter if adjustments were made while both the sound waveform and vibrato were being displayed.
+- Fixed a bug that caused a forced termination when repeatedly changing the cast of a song.
+- Fixed a bug that when the cast of a song was changed, the cast image would not change while the talk track was selected.
+- Fixed a bug that when switching tracks during playback, the content of the track before switching would be displayed until scrolling.
+
+▼Other changes
+
+- Other minor improvements and bug fixes.
+
+### Dec.7,2023 Version 8.7.1.0
+
+▼Song related changes
+
+- Fixed a bug that could cause a song to be temporarily inoperable or to pause mid-play during waveform acquiring.
+
+▼Talk related changes
+
+- Corrected the playback start position by clicking preview on the English voicebank accent adjustment screen. It plays from the beginning of the accent phrase.
+
+▼Other changes
+
+- When the mouse cursor is on the scroll bar, the wheel scroll now follows the horizontal/vertical scroll bar.
+- Other minor improvements and bug fixes.
+
 ------------------------------------------------------
 Jan.9,2024 Version 9.0.1.0
 ------------------------------------------------------
@@ -57,7 +87,6 @@ Various improvements were also made, including vibrato adjustment and wheel scro
 ・When the mouse cursor is on the scroll bar, the wheel scroll now follows the horizontal/vertical scroll bar.
 
 ・Other minor improvements and bug fixes.
-
 
 ## 8.6
 
