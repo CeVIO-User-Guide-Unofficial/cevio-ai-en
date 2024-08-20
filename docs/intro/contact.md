@@ -8,4 +8,4 @@ If you have any questions, comments or suggestions about this project, please cr
 
 You can report any problems in [Issues](https://github.com/CeVIO-User-Guide-Unofficial/CeVIO-AI/issues/new).
 
-For further contact, please send an email to [nachtgeistw@protonmail.com](mailto:nachtgeistw@protonmail.com).
+For further contact, please send an email to [nachtgeistw@ceviodoc.uk](mailto:nachtgeistw@ceviodoc.uk).
