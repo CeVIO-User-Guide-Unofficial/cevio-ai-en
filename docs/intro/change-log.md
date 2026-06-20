@@ -12,8 +12,97 @@ Original article:
 
 ---
 
-## 9.0
+## 9.0 (8.7)
+------------------------------------------------------
+Feb.22,2024 Version 9.1.2.0
+------------------------------------------------------
+▼Song related changes
+・Updated to Song Engine 6.3.7. No change in sound quality.
 
+・Supports "Suzuki Tsudumi" Talk Voice 2.0.0 / Song Voice 2.0.0.
+
+------------------------------------------------------
+Feb.14,2024 Version 9.1.1.0
+------------------------------------------------------
+▼Song related changes
+・Updated to Song Engine 6.3.6. No change in sound quality.
+
+・Husky was improved.
+　・Husky slider adjustment range was expanded from -1.00 to +1.00 to -10.00 to +10.00.
+　・The adjustment range of the Husky detail screen was expanded from -1.00 to +1.00 to -20.00 to +20.00.
+　・New technology (version 2.0) adopted voices such as "Sato Sasara" makes the default value of husky details realistic.
+
+・Fixed a bug that caused timing shifts when pasting or dragging timings.
+
+・Fixed bugs such as waveforms not being updated when playing or adjusting while waveforms are being acquired.
+
+▼Talk related changes
+・The splitter separating the dialogue list and slider area can now be moved, even in a six-emotion cast.
+
+------------------------------------------------------
+Jan.16,2024 Version 9.0.2.0
+------------------------------------------------------
+▼Song related changes
+・Updated to Song Engine 6.3.5. No change in sound quality.
+
+・Updated to Japanese Song Dictionary 3.0.2. It does not affect lyrics.
+
+・Fixed a bug that the playback of a song could become inoperable if it was horizontally expanded or contracted during playback and then stopped on the Score Edit Screen.
+
+▼Talk related changes
+・Updated to Talk Engine 6.3.5. No change in sound quality.
+
+・Improved mouse wheel adjustment in the text area above and below the graph while vertically zooming in on the PIT/VOL Screen of the Phoneme Graph.
+
+▼Other changes
+・Other minor improvements and bug fixes.
+
+------------------------------------------------------
+Jan.9,2024 Version 9.0.1.0
+------------------------------------------------------
+Version 9.0 implements new features such as audio waveform display for songs and free accent mode for talk.
+Various improvements were also made, including vibrato adjustment and wheel scrolling.
+
+▼Song related changes
+・Supports audio waveform display.
+　It is displayed on the adjustment screen. Display can be turned on/off.
+
+・Vibrato adjustment screen has been improved.
+　VIA(amplitude) and VIF(frequency) are integrated into the VIB adjustment screen.
+
+・Audio waveform color, opacity, and anti-aliasing can now be set in the "Color Settings" menu.
+
+・When adjusting note-by-note timing, all but the last phoneme will now move in parallel.
+　*The conventional timing ratio can also be maintained by [Shift]+dragging.
+
+・Added "MIDI File Character Code" in "Options". UTF-8" can be selected.
+
+・Added "Lyrics Character Code" in the MIDI import window. UTF-8" can be selected.
+
+・The pitch line in the PIT adjustment screen has been adjusted so that it passes through the middle of the A4 note when the pitch line is 440 Hz.
+
+・"Delete Measures" can now delete up to 999 measures.
+
+▼Talk related changes
+・Updated to Talk Engine 6.3.4. No change in sound quality.
+
+・Updated to Japanese Talk Dictionary 3.0.21.
+　Added CeVIO AI Song characters name etc.
+
+・"Free Accent Mode" is implemented.
+　It is now possible to not apply accent types when adjusting Japanese accents.
+
+・Organized right-click menu of Phoneme Graph.
+
+・Corrected the playback start position in the click preview on the English accent adjustment screen. Plays from the beginning of the accented phrase.
+
+▼Other changes
+・Added "Horizontal Wheel Scroll Reversal" to "Options".
+
+・When the mouse cursor is on the scroll bar, the wheel scroll now follows the horizontal/vertical scroll bar.
+
+・Other minor improvements and bug fixes.
+      
 ### Dec.15,2023 Version 8.7.3.0
 
 ▼Song related changes

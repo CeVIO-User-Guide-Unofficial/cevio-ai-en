@@ -35,6 +35,10 @@ theme:
       primary: light blue
       toggle:
         icon: material/weather-sunny
+        name: Follow System
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
         name: Switch to light mode
 
 extra:
