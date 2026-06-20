@@ -22,6 +22,10 @@ The user manual is separated into sections following the origin version.
 
 Desktop users can navigate using the top menu, and mobile users can tap the three-bars (:fontawesome-solid-bars:) icon in the top left corner to open the navigation menu.
 
+## Others
+
+[VoiSona User Manual (Chinese)](https://voisona.ceviodoc.uk)
+
 ## Shortcut Key
 
 `Global`
